@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #F6F0D7;
+    padding: 10px 20px;
+}
+button{
+    background-color: #89986D;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}

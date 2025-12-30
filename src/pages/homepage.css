@@ -1,0 +1,13 @@
+.container {
+    height: 400px;
+    width: 500px;
+    background-color: #F6F0D7;
+}
+
+.container button {
+    background-color: #89986D;
+    height: 120px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
