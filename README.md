@@ -1,6 +1,4 @@
-Here is a clean, complete, professional README.md you can copy–paste directly into your repo.
-
-📌 Issue Tracker – React + Firebase
+Issue Tracker – React + Firebase
 
 This is a simple Issue Tracking Application built using React, Vite, Firebase Authentication, and Firestore.
 Users can sign up, log in, create issues, update their status, and view all issues in a clean dashboard.
