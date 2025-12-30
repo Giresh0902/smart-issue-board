@@ -46,7 +46,7 @@ const IssuesList = () => {
     <>
       <Navbar email={auth.currentUser.email} />
 
-      <div className="container">
+      <div className="container-2">
         <h1>All Issues</h1>
         <table>
           <thead>
