@@ -5,7 +5,7 @@ Users can sign up, log in, create issues, update their status, and view all issu
 
 🚀 Live Demo
 
-(Add your Vercel link here after deployment)
+https://vercel.com/giresh0902s-projects/smart-issue-board
 
 🛠️ Tech Stack
 Frontend
@@ -205,20 +205,5 @@ Add vercel.json:
 }
 
 
-Deploy 🎉
+Deploy 
 
-🙌 Conclusion
-
-This project demonstrates:
-
-Firebase authentication
-
-Firestore CRUD
-
-React component architecture
-
-Issue tracking features
-
-Vercel deployment process
-
-It is simple, scalable, and easy to extend.
