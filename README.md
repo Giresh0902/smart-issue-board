@@ -5,7 +5,7 @@ Users can sign up, log in, create issues, update their status, and view all issu
 
 🚀 Live Demo
 
-(Add your Vercel link here after deployment)
+https://vercel.com/giresh0902s-projects/smart-issue-board
 
 🛠️ Tech Stack
 Frontend
